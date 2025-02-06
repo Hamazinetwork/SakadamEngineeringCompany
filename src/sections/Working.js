@@ -18,6 +18,12 @@ const Working = () => {
         >
             Our Projects
         </motion.h1>
+        <motion.h3
+                    variants={slideUpVariants}
+                    className='text-black uppercase text-[20px] font-bold text-center'
+                    >
+                        Here’s a glimpse of some notable projects we’ve delivered:
+                    </motion.h3>
         <motion.div 
         variants={slideUpVariants}
         className='bg-yellow-500 w-[120px] h-[6px]'

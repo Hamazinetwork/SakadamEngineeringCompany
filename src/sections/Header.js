@@ -46,7 +46,7 @@ const Header = () => {
                 }
                 </div>
             </div>
-            <div className={`${isMenuOpen ? 'flex' : 'hidden'} w-full h-fit bg-yellow-200 opacity-90 p-4 absolute top-[72px] left-0`}onClick={closeMenu}>
+            <div className={`${isMenuOpen ? 'flex' : 'hidden'} w-full h-fit bg-white opacity-90 p-4 absolute top-[72px] left-0`}onClick={closeMenu}>
                 <ul className='flex flex-col justify-center items-center gap-2 w-full'>
                     {
                         navItem.map(({Link: NavText, Path})=>(

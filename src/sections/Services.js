@@ -9,7 +9,7 @@ const Services = () => {
         <motion.div
         initial="hidden"
         whileInView="visible"
-        variants={slideUpVariants}
+        variants={zoomInVariants}
         className='lg:w-[80%] w-[90%] m-auto py-[60px] flex flex-col justify-between items-center gap-[20px]'
         >
             <motion.h1
@@ -18,6 +18,7 @@ const Services = () => {
             >
                 Our Services
             </motion.h1>
+            
             <motion.div 
             variants={slideUpVariants}
             className='bg-yellow-500 w-[120px] h-[6px]'

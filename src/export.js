@@ -117,7 +117,7 @@ export const clients = [
     image: "/assets/Asakadan7.jpg",
     name: "Engr. chief Sakariyau Ademola",
     about:
-      "Engr. Chief S.A. Ademola is a distinguished registered civil and structural engineer (COREN, R6051). He is a Fellow of the Nigerian Institution of Civil Engineers (FNICE, 02106) and the Nigerian Society of Engineers (FNSE, 06393). He holds multiple advanced degrees, including an M.Sc. in Construction Management, M.Sc. in Housing, and an MBA. Over the years, he has supervised numerous engineering projects.",
+      "Engr. Chief S.A. Ademola is a distinguished registered civil and structural engineer (COREN, R6051). He is a Fellow of the Nigerian Institution of Civil Engineers (FNICE, 02106) and the Nigerian Society of Engineers (FNSE, 06393). He holds multiple advanced degrees, including an M.Sc. in Construction Management, M.Sc. in Housing, and an MBA. Over the years, he has supervised numerous engineering projects ",
     post: "Chairman",
   },
   {
@@ -128,10 +128,10 @@ export const clients = [
     post: "Executive Director Technical",
   },
   {
-    image: "/assets/Asakadam7.jpg",
+    image: "/assets/Efinance.jpg",
     name: "Mr. Ademola Raheem",
     about:
-      "",
+      "Dedicated and detail-oriented professional with experience in inventory management, account reconciliation, and financial operations. Proven leadership and academic research skills, coupled with public speaking training and effective networking.",
     post: "Executive Director Finance",
   },
 ];
