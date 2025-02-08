@@ -2,7 +2,7 @@
     "redirects": [
 
       {
-        "source": "/(.*)",
+        "source": "/",
         "destination": "https://www.sakadamengineering.com",
         "permanent": true
       }
