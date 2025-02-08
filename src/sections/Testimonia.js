@@ -38,7 +38,7 @@ const Testimonia = () => {
                     </div>
                     <div className='flex flex-col justify-center items-center gap-[5px]'>
                         <img className='mt-[-50px] rounded-full h-[240px] ' src={item.image} alt=''/>
-                        <h1 className='text-black text-[27px] font-semibold uppercase'>{item.h1}</h1>
+                        <h1 className='text-black text-[27px] font-semibold uppercase'>{item.name}</h1>
                         <h1 className='text-yellow-500 text-[22px]'>{item.post}</h1>
                     </div>
                     </div>

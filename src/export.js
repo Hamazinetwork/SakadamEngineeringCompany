@@ -122,14 +122,14 @@ export const clients = [
   },
   {
     image: "/assets/Pp.JPG",
-    name: "Mr. Ademola Rahman",
+    name: "Ademola Rahman",
     about:
-      "Ademola Rahman Adeboye is a Mechanical Engineering graduate with a passion for technology and finance. Skilled in power plant operations, web development, data analysis, and cybersecurity, he leverages Python, SQL, and Power BI to solve challenges in fintech and payment accessibility in Nigeria. Driven by a commitment to learning, Ademola aspires to bridge the gap between technology and finance, contributing to cybersecurity awareness and innovative solutions in business analytics.",
+      "Ademola Rahman is a Mechanical Engineering graduate with a passion for technology and finance. Skilled in power plant operations, web development, data analysis, and cybersecurity, he leverages Python, SQL, and Power BI to solve challenges in fintech and payment accessibility in Nigeria. Driven by a commitment to learning, Ademola aspires to bridge the gap between technology and finance, contributing to cybersecurity awareness and innovative solutions in business analytics.",
     post: "Executive Director Technical",
   },
   {
     image: "/assets/Efinance.jpg",
-    name: "Mr. Ademola Raheem",
+    name: "Ademola Raheem",
     about:
       "Dedicated and detail-oriented professional with experience in inventory management, account reconciliation, and financial operations. Proven leadership and academic research skills, coupled with public speaking training and effective networking.",
     post: "Executive Director Finance",
