@@ -11,7 +11,7 @@ const Header = () => {
         setIsMenuOpen(false);
     };
     const navItem = [
-        { Link: 'Home', Path: 'Home' },
+        { Link: 'Home', Path: 'Hero' },
         { Link: 'About', Path: 'About' },
         { Link: 'Services', Path: 'Services' },
         { Link: 'Projects', Path: 'Working' },

@@ -5,7 +5,7 @@ import { slideUpVariants, zoomInVariants } from './Animation'
 
 const Hero = () => {
   return (
-    <div id="hero" className=' w-full lg:h[700px] h-fit m-auto pt-[60px] lg:pt-[0px] lg:px-[150px] px-[20px] flex justify-between items-center lg:flex-row flex-col lg:gap-5 gap-[50px] bg-cover bg-center' style={{ backgroundImage: `url(/assets/homeimg.webp)`,}}>
+    <div id="Hero" className=' w-full lg:h[700px] h-fit m-auto pt-[60px] lg:pt-[0px] lg:px-[150px] px-[20px] flex justify-between items-center lg:flex-row flex-col lg:gap-5 gap-[50px] bg-cover bg-center' style={{ backgroundImage: `url(/assets/homeimg.webp)`,}}>
         <motion.div
         initial="hidden"
         whileInView="visible"
@@ -25,10 +25,10 @@ const Hero = () => {
                 At Sakadam, innovation is at the heart of everything we do. We continuously adopt the latest technologies and techniques to ensure Quality, Safety,Integrity
 
             </motion.h1>
-            <div className='w-[120px] h-[6px] bg-yellow-200'></div>
-            <p className='text-white text-[15px]'>Quality: Maintaining the highest standards in design, construction, and materials</p>
-            <p className='text-white text-[15px]'>Safety: Prioritizing the well-being of workers, clients, and communities.</p>
-            <p className='text-white text-[15px]'>Integrity: Upholding honesty and transparency in all business dealings.</p>
+            <div className='w-[120px] h-[6px] bg-yellow-200 '></div>
+            <p className='text-white text-[15px] lg:p-[5px]'>Quality: Maintaining the highest standards in design, construction, and materials</p>
+            <p className='text-white text-[15px] lg:p-[5px]'>Safety: Prioritizing the well-being of workers, clients, and communities.</p>
+            <p className='text-white text-[15px] lg:p-[5px]'>Integrity: Upholding honesty and transparency in all business dealings.</p>
             <motion.div
             initial="hidden"
             whileInView="visible"
@@ -48,7 +48,7 @@ const Hero = () => {
             initial="hidden"
             whileInView="visible"
             variants={zoomInVariants}
-            src={`/assets/ASakadam .JPG`} alt="hero image" className='lg:h[600px] h-[200px] lg:mb-[-50px] rounded-full '
+            src={`/assets/ASakadam .JPG`} alt="hero image" className='lg:h[800px] h-[200px] lg:mb-[-50px] rounded-full '
             />
             </div> 
     </div>

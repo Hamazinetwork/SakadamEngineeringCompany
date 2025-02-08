@@ -1,0 +1,15 @@
+{
+    "redirects": [
+      {
+        "source": "http://www.sakadamengineering.com",
+        "destination": "https://www.sakadamengineering.com",
+        "permanent": true
+      },
+      {
+        "source": "http://sakadamengineering.com",
+        "destination": "https://www.sakadamengineering.com",
+        "permanent": true
+      }
+    ]
+  }
+  

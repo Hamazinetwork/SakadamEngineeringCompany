@@ -39,7 +39,7 @@ export const allservices = [
     icon: '/assets/paint.svg',
     title: "TELECOMMUNICATION AND COMPUTER ENGINEERING",
     about:
-      "SOur telecommunication and computer engineering services focus on infrastructure development, equipment installation, and system maintenance. We work to improve connectivity and provide innovative IT solutions tailored to meet the needs of modern businesses.",
+      "Our telecommunication and computer engineering services focus on infrastructure development, equipment installation, and system maintenance. We work to improve connectivity and provide innovative IT solutions tailored to meet the needs of modern businesses.",
   },
 ];
 
@@ -66,7 +66,7 @@ export const planning = [
     
     title: "2014: Monitoring Consultant, Osun State Ministry of Works and Transport",
     about:
-      "2014: Construction supervisor of 10km Road each in Ila and Ifedayo Local Governments of Osun State",
+      "Construction supervisor of 10km Road each in Ila and Ifedayo Local Governments of Osun State",
   },
   {
     

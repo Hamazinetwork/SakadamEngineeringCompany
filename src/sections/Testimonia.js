@@ -5,11 +5,11 @@ import { clients } from '../export'
 
 const Testimonia = () => {
   return (
-    <div id="working" className='w-full bg-gray'>
+    <div id="Testimonia" className='w-full bg-gray'>
     <motion.div
     initial="hidden"
     whileInView="visible"
-    variants={slideUpVariants}
+    variants={zoomInVariants}
     className='lg:w-[80%] w-[90%] m-auto py-[60px] flex flex-col justify-between items-center gap-[20px]'
     >
         <motion.h1

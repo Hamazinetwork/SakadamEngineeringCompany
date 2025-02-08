@@ -5,7 +5,7 @@ import {planning} from '../export'
 
 const Working = () => {
   return (
-    <div id="working" className='w-full bg-gray'>
+    <div id="Working" className='w-full bg-gray'>
     <motion.div
     initial="hidden"
     whileInView="visible"
